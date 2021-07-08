@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziv/swiss-knife.git"
+    "url": "git+https://github.com/ziv/REPO_NAME.git"
   },
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/ziv/REPO_NAME/issues"
   },
-  "homepage": "https://github.com/ziv/swiss-knife#readme",
+  "homepage": "https://github.com/ziv/REPO_NAME#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
